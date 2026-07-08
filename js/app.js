@@ -235,7 +235,7 @@ btn.addEventListener("click", (e) => {
 const translations = {
   ru: {
     lockinvited1: "ВАМ ПРИШЛО ПРИГЛАШЕНИЕ",
-    names: "Лазиз и Солиха",
+    names: "Лазиз & Солиха",
     quote: "\"И Он объединил их сердца\"",
     source: "Аль-Анфаль, 63",
     slider1: "ОТКРЫТЬ",
@@ -394,7 +394,7 @@ const translations = {
   },
   uz_cy: {
     lockinvited1: "СИЗГА ТАКЛИФНОМА КЕЛДИ",
-    names: "Лазиз ва Солиха",
+    names: "Лазиз & Солиха",
     quote: "\"Ва У уларнинг қалбларини бирлаштирди\"",
     source: "Ал-Анфол, 63",
     slider1: "ОЧИШ",
